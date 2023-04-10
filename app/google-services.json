@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "730303350532",
+    "firebase_url": "https://fir-auth10-9916a-default-rtdb.firebaseio.com",
+    "project_id": "fir-auth10-9916a",
+    "storage_bucket": "fir-auth10-9916a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730303350532:android:69ad9b084d3da074a3f251",
+        "android_client_info": {
+          "package_name": "com.rosh.firebaseauth10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730303350532-ac75oa8dj94kk0hs09q3qcpirc2oesc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosh.firebaseauth10",
+            "certificate_hash": "d7a612178da95a671531a6a42b46118fc27fbabd"
+          }
+        },
+        {
+          "client_id": "730303350532-ukr9u3vua85cfjts23ij6du533skcijp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmw3X_3eSPauy7QadBRKs5sP_eniD_8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730303350532-rob08b1c8klab8gdd20fqgu4dgascf5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730303350532:android:6fb0bdd8db75eb00a3f251",
+        "android_client_info": {
+          "package_name": "com.rosh.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730303350532-ukr9u3vua85cfjts23ij6du533skcijp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmw3X_3eSPauy7QadBRKs5sP_eniD_8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730303350532-rob08b1c8klab8gdd20fqgu4dgascf5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730303350532:android:bd3fed6a468f7e34a3f251",
+        "android_client_info": {
+          "package_name": "com.rosh.telegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730303350532-k214ivv8c5pdiu1nkjiv1jkr9ph2ng04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosh.telegram",
+            "certificate_hash": "d7a612178da95a671531a6a42b46118fc27fbabd"
+          }
+        },
+        {
+          "client_id": "730303350532-ukr9u3vua85cfjts23ij6du533skcijp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmw3X_3eSPauy7QadBRKs5sP_eniD_8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730303350532-rob08b1c8klab8gdd20fqgu4dgascf5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
